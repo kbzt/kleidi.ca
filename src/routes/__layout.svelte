@@ -12,6 +12,7 @@
 <script>
   import '../app.css'
   import { fade } from 'svelte/transition'
+
   export let currentRoute
 </script>
 

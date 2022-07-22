@@ -2,6 +2,7 @@
   "name": "kleidi.ca",
   "author": "Kleidi Bujari <mail@kleidi.ca> (https://kleidi.ca)",
   "version": "0.0.0",
+  "license": "GPL-3.0",
   "scripts": {
     "dev": "vite dev",
     "build": "rm -rf build && sh build.sh && vite build",

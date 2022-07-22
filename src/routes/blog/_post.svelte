@@ -8,7 +8,8 @@
 
 <div class="max-w-4xl mx-auto mt-12 p-4 scroll-smooth">
   <div class="flex justify-evenly items-center">
-    <a href="/blog" class="link"><ArrowLeftCircleIcon size="36" strokeWidth="1.5" /></a>
+    <a href="/blog" class="link"
+      ><ArrowLeftCircleIcon size="36" strokeWidth="1.5" /></a>
     <span>|</span>
     <p>{date}</p>
   </div>
